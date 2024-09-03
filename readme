@@ -1,4 +1,4 @@
-Word Game I wrote in C in late 2023. Compiled binary in /build. 
+Word Game I wrote in C in late 2023.
 You are given a certain amount of random letters. You then type in words using those letters and depending 
 on the letters in the words each word is worth a certain amount of points (uses same point system as scrabble)
 You have a certain amount of tries to guess as many words as possible. After you guess wrong enough you will loose
