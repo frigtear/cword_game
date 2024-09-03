@@ -8,7 +8,7 @@
 #define RAND_CAP 30000
 #define ALPHA_SIZE 26
 #define LOOPS 10
-#define SEED 69
+#define SEED 100
 #define LETTERCOUNT 8
 
 static int findWord(FILE* stream, const char* word) {
